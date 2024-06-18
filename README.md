@@ -69,6 +69,12 @@
 - [JPush](https://github.com/jpush/jpush-react-native)：极光推送
 - [XPush](https://github.com/xuexiangjys/XPush)：一个轻量级、可插拔的Android消息推送框架，一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等）
 
+## 逆向
+
+- [jadx](https://github.com/skylot/jadx)：用于从 Android Dex 和 Apk 文件生成 Java 源代码的命令行和 GUI 工具
+- [apktool](https://github.com/iBotPeaches/Apktool)：将资源解码为接近原始形式，Android 应用进行逆向工程的工具
+- [ApkToolPlus](https://github.com/CYRUS-STUDIO/ApkToolPlus)：可视化的跨平台 apk 分析工具
+
 ## Android 优秀个人技术博客
 
 - [JessYan](https://juejin.cn/user/976022014539326/posts)
