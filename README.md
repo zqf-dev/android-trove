@@ -27,6 +27,9 @@
 
 - [OkHttp](https://github.com/square/okhttp) ：网络请求
 - [Retrofit](https://github.com/square/retrofit)：网络请求
+- [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)：一个基于okhttp的标准RESTful风格的网络框架
+- [okhttputils](https://github.com/hongyangAndroid/okhttputils)：鸿洋老哥okhttp的辅助类
+- [Net](https://github.com/liangjingkanji/Net)：基于kotlin的协程完善的Android网络请求库
 
 ## 图片框架
 
