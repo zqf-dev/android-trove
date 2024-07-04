@@ -22,6 +22,10 @@
 ## 屏幕适配
 
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)：JessYan大佬的 今日头条屏幕适配方案终极版
+- [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)：鸿洋-Android屏幕适配方案【目前停止维护】
+- [ScreenAdaptation](https://github.com/wildma/ScreenAdaptation)：一种非常好用的 Android 屏幕适配——smallestWidth 限定符适配
+- [Rudeness](https://github.com/Firedamp/Rudeness)：一种粗暴快速的Android全屏幕适配方案
+- [AndroidScreenAdaptation](https://github.com/yatoooon/AndroidScreenAdaptation)：一个轻量好用的安卓开发屏幕适配工具库
 
 ## 网络框架
 
@@ -30,6 +34,10 @@
 - [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)：一个基于okhttp的标准RESTful风格的网络框架
 - [okhttputils](https://github.com/hongyangAndroid/okhttputils)：鸿洋老哥okhttp的辅助类
 - [Net](https://github.com/liangjingkanji/Net)：基于kotlin的协程完善的Android网络请求库
+- [AndroidHttp](https://github.com/AbnerEarl/AndroidHttp)：一个整合OkHttp 、Retrofit 、Volley 、RxJava、Novate多种开源网络框架的项目，对网络请求框架和方法进行了高度的封装和集成，让网络请求更加简洁、简单，只需要一行代码就完成
+- [RxEasyHttp](https://github.com/zhou-you/RxEasyHttp)：一款基于RxJava2+Retrofit2实现简单易用的网络请求框架，结合android平台特性的网络封装库,采用api链式调用一点到底,集成cookie管理,多种缓存模式,极简https配置,上传下载进度显示,请求错误自动重试,请求携带token、时间戳、签名sign动态配置,自动登录成功后请求重发功能,3种层次的参数设置默认全局局部,默认标准ApiResult同时可以支持自定义的数据结构
+- [EasyHttp](https://github.com/getActivity/EasyHttp)：Android 网络请求框架，简单易用，so easy
+- [rxhttp](https://github.com/liujingxing/rxhttp)：基于OkHttp封装，支持Kotlin Coroutines、RxJava2、RxJava 3
 
 ## 图片框架
 
