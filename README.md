@@ -43,6 +43,7 @@
 
 - [Coil](https://github.com/coil-kt/coil)：一个 Android 图片加载库，通过 Kotlin 协程的方式加载图片
 - [Glide](https://github.com/bumptech/glide)：Glide是一个快速高效的Android图片加载库，注重于平滑的滚动
+- [GlideImageView](https://github.com/sunfusheng/GlideImageView)：基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度
 
 ## 存储/数据库
 
@@ -86,6 +87,7 @@
 
 - [EasyWindow](https://github.com/getActivity/EasyWindow) ：轮子哥的Android 悬浮窗框架
 - [XFloatView](https://github.com/xuexiangjys/XFloatView)：一个简易的悬浮窗实现方案
+- [FloatingX](https://github.com/Petterpx/FloatingX)：Android上强大的悬浮窗组件，支持 系统浮窗(需要权限)、应用内浮窗(无权限)、局部悬浮(View)，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。
 
 ## 推送/统计/检测
 
