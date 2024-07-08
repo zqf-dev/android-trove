@@ -94,6 +94,10 @@
 - [JPush](https://github.com/jpush/jpush-react-native)：极光推送
 - [XPush](https://github.com/xuexiangjys/XPush)：一个轻量级、可插拔的Android消息推送框架，一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等）
 
+## 蓝牙
+
+- [Jetpack Bluetooth更优雅地使用蓝牙](https://juejin.cn/post/7354389281584119823#heading-0)：google的 kotlin 版本推出的 Bluetooth 的新库
+
 ## 逆向
 
 - [jadx](https://github.com/skylot/jadx)：用于从 Android Dex 和 Apk 文件生成 Java 源代码的命令行和 GUI 工具
@@ -101,6 +105,11 @@
 - [ApkToolPlus](https://github.com/CYRUS-STUDIO/ApkToolPlus)：可视化的跨平台 apk 分析工具
 - [Android 逆向系列（一）：反编译 APK 技术完全解析](https://juejin.cn/post/7158107697907236878)
 - [Android 逆向系列（二）：Android APK 代码混淆](https://juejin.cn/post/7168086915445424136)
+
+## 其它
+
+- [DateTimePicker](https://github.com/loper7/DateTimePicker)：一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI
+- [tablayout-ext](https://github.com/loper7/tablayout-ext)：Google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，更便捷的使用原生TabLayout实现一些UI效果
 
 ## Android 优秀个人技术博客
 
