@@ -44,6 +44,7 @@
 - [Coil](https://github.com/coil-kt/coil)：一个 Android 图片加载库，通过 Kotlin 协程的方式加载图片
 - [Glide](https://github.com/bumptech/glide)：Glide是一个快速高效的Android图片加载库，注重于平滑的滚动
 - [GlideImageView](https://github.com/sunfusheng/GlideImageView)：基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度
+- [Luban](https://github.com/Curzibn/Luban)：Luban(鲁班)—可能是最接近微信朋友圈的图片压缩算法
 
 ## 存储/数据库
 
@@ -95,6 +96,13 @@
 - [LeakCanary](https://github.com/square/leakcanary)：**Android** 的内存泄漏检测库
 - [JPush](https://github.com/jpush/jpush-react-native)：极光推送
 - [XPush](https://github.com/xuexiangjys/XPush)：一个轻量级、可插拔的Android消息推送框架，一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等）
+
+## 图表
+
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)：一个强大且易于使用的Android图表库
+- [JZAndroidChart](https://github.com/JingZhuanDuoYing/JZAndroidChart)：Android 股票图表库
+- [UI](https://github.com/supertaohaili/UI)：提供android 折现图、图形图，扇形图，渐变图等常用报表ui，功能强大，一个报表一个类，代码十分简单，易修改易维护，绘制性能高效，库没有导入其他的第三方包，干净整洁。 主要是： 代码简单、代码简单、代码简单，易修改易维护
+- [XCL-Charts](https://github.com/xcltapestry/XCL-Charts)：Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图
 
 ## 蓝牙
 
