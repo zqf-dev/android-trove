@@ -45,6 +45,7 @@
 - [Glide](https://github.com/bumptech/glide)：Glide是一个快速高效的Android图片加载库，注重于平滑的滚动
 - [GlideImageView](https://github.com/sunfusheng/GlideImageView)：基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度
 - [Luban](https://github.com/Curzibn/Luban)：Luban(鲁班)—可能是最接近微信朋友圈的图片压缩算法
+- [PhotoImageView](https://github.com/open-android/PhotoImageView)：图片浏览缩放控件，一行代码实现图片手势缩放
 
 ## 存储/数据库
 
