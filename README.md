@@ -46,11 +46,17 @@
 - [GlideImageView](https://github.com/sunfusheng/GlideImageView)：基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度
 - [Luban](https://github.com/Curzibn/Luban)：Luban(鲁班)—可能是最接近微信朋友圈的图片压缩算法
 - [PhotoImageView](https://github.com/open-android/PhotoImageView)：图片浏览缩放控件，一行代码实现图片手势缩放
+- [PictureSelector](https://github.com/LuckSiege/PictureSelector)：一款针对Android平台下的图片选择器，支持从相册获取图片、视频、音频&拍照，支持裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能，支持动态获取权限&适配Android 5.0+系统的开源图片选择框架
+- [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)：Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 
 ## 存储/数据库
 
 - [MMKV](https://github.com/Tencent/MMKV)：腾讯基于 **mmap** 内存映射的 **key-value** 本地存储组件MMKV
 - [Room](https://developer.android.google.cn/training/data-storage/room?hl=cs)：Android 官方提供的一个持久性库，用于在 Android 应用程序中管理数据库
+- [greenDAO](https://github.com/greenrobot/greenDAO)：greenDAO是一个轻量级、快速的Android ORM解决方案，可以将对象映射到SQLite数据库。
+- [Android 数据库系列一：ORM框架的引入与数据库表的设计思考](https://juejin.cn/post/7330021813823733775)
+- [Android 数据库系列二：全文检索踩坑记录与相关思考](https://juejin.cn/post/7330764235594694696)
+- [Android 数据库系列三：复杂项目SQL治理与数据库的优化总结](https://juejin.cn/post/7338306790173704192?searchId=20240712110657FF0B16F17FD0FD2538D7)
 
 ## 权限
 
