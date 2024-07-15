@@ -19,6 +19,10 @@
 - [基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) 
 - [MVPArms](https://github.com/JessYanCoding/MVPArms)：整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 
+## JetPack
+
+- [compose_chat](https://github.com/leavesCZY/compose_chat)：Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP
+
 ## 屏幕适配
 
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)：JessYan大佬的 今日头条屏幕适配方案终极版
@@ -127,6 +131,7 @@
 
 - [DateTimePicker](https://github.com/loper7/DateTimePicker)：一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI
 - [tablayout-ext](https://github.com/loper7/tablayout-ext)：Google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，更便捷的使用原生TabLayout实现一些UI效果
+- [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)：史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS
 
 ## Android 优秀个人技术博客
 
@@ -143,5 +148,10 @@
 - [刘望舒](https://juejin.cn/user/3016715635792974/posts)
 - [xuyisheng](https://juejin.cn/user/43636194286093/posts)
 - [codelang](https://juejin.cn/user/184373682638727/posts)
-- [赌一包辣条](https://juejin.cn/user/2735240659359448/posts)
+- [赌一包辣条
 - [Android轮子哥](https://www.jianshu.com/u/f7bb67d86765)
+
+## 算法
+
+- [hello-algo](https://github.com/krahets/hello-algo)：《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码
+
