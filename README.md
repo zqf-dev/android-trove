@@ -132,6 +132,7 @@
 - [DateTimePicker](https://github.com/loper7/DateTimePicker)：一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI
 - [tablayout-ext](https://github.com/loper7/tablayout-ext)：Google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，更便捷的使用原生TabLayout实现一些UI效果
 - [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)：史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS
+- [DialogX](https://github.com/kongzue/DialogX)：一款简单易用的对话框组件，相比原生对话框使用体验更佳，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有iOS、MIUI、Material You等主题扩展可选。
 
 ## Android 优秀个人技术博客
 
@@ -148,8 +149,9 @@
 - [刘望舒](https://juejin.cn/user/3016715635792974/posts)
 - [xuyisheng](https://juejin.cn/user/43636194286093/posts)
 - [codelang](https://juejin.cn/user/184373682638727/posts)
-- [赌一包辣条
+- [赌一包辣条](https://github.com/zhpanvip)
 - [Android轮子哥](https://www.jianshu.com/u/f7bb67d86765)
+- [Kongzue](https://github.com/kongzue)
 
 ## 算法
 
