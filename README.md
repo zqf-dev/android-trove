@@ -51,6 +51,13 @@
 - [PictureSelector](https://github.com/LuckSiege/PictureSelector)：一款针对Android平台下的图片选择器，支持从相册获取图片、视频、音频&拍照，支持裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能，支持动态获取权限&适配Android 5.0+系统的开源图片选择框架
 - [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)：Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 
+## 下拉刷新/适配器/轮播图【三剑客】
+
+- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)：下拉刷新*、上*拉*加载、二级*刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Foote
+- [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)：强大而灵活的RecyclerView Adapter
+- [banner](https://github.com/youth5201314/banner)：Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义
+- [XRefreshView](https://github.com/huxq17/XRefreshView)：一个万能的android下拉上拉刷新的框架,完美支持recyclerview
+
 ## 存储/数据库
 
 - [MMKV](https://github.com/Tencent/MMKV)：腾讯基于 **mmap** 内存映射的 **key-value** 本地存储组件MMKV
