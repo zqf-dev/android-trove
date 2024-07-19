@@ -14,13 +14,11 @@
 - [kotlin基础--协程](https://www.jianshu.com/p/2e0746c7d4f3)
 - [Kotlin实现的设计模式](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
-## 架构
+## 架构/JetPack
 
 - [基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) 
 - [MVPArms](https://github.com/JessYanCoding/MVPArms)：整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
-
-## JetPack
-
+- [JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)：一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目
 - [compose_chat](https://github.com/leavesCZY/compose_chat)：Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP
 
 ## 屏幕适配
@@ -127,12 +125,20 @@
 - [Android 逆向系列（一）：反编译 APK 技术完全解析](https://juejin.cn/post/7158107697907236878)
 - [Android 逆向系列（二）：Android APK 代码混淆](https://juejin.cn/post/7168086915445424136)
 
+## 保活
+
+- [Cactus](https://github.com/gyf-dev/Cactus)：Android Keep Alive(安卓保活)，Cactus 集成双进程前台服务，JobScheduler，onePix(一像素)，WorkManager，无声音乐
+- [AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)：android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
+- [Don-t-Kill](https://github.com/UISSD/Don-t-Kill)：适*用*于Android12的后台应用保活模块
+- [KeepProcessLiveDemo](https://github.com/jasonsyf/KeepProcessLiveDemo)：Android应用保活（双进程守护，JobService,JobScheduler,WorkManager，监听系统广播等）
+
 ## 其它
 
 - [DateTimePicker](https://github.com/loper7/DateTimePicker)：一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI
 - [tablayout-ext](https://github.com/loper7/tablayout-ext)：Google 原生 Tablayout( com.google.android.material.tabs.TabLayout) 零入侵拓展，更便捷的使用原生TabLayout实现一些UI效果
 - [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)：史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS
 - [DialogX](https://github.com/kongzue/DialogX)：一款简单易用的对话框组件，相比原生对话框使用体验更佳，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有iOS、MIUI、Material You等主题扩展可选。
+- [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)：android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现
 
 ## Android 优秀个人技术博客
 
@@ -152,6 +158,7 @@
 - [赌一包辣条](https://github.com/zhpanvip)
 - [Android轮子哥](https://www.jianshu.com/u/f7bb67d86765)
 - [Kongzue](https://github.com/kongzue)
+- [gyf-dev](https://github.com/gyf-dev)
 
 ## 算法
 
