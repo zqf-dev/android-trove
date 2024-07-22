@@ -135,7 +135,7 @@
 ## 保活
 
 - [Cactus](https://github.com/gyf-dev/Cactus)：Android Keep Alive(安卓保活)，Cactus 集成双进程前台服务，JobScheduler，onePix(一像素)，WorkManager，无声音乐
-- [AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)：android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
+- [AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive)：android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动 
 - [Don-t-Kill](https://github.com/UISSD/Don-t-Kill)：适*用*于Android12的后台应用保活模块
 - [KeepProcessLiveDemo](https://github.com/jasonsyf/KeepProcessLiveDemo)：Android应用保活（双进程守护，JobService,JobScheduler,WorkManager，监听系统广播等）
 
@@ -146,6 +146,11 @@
 - [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)：史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS
 - [DialogX](https://github.com/kongzue/DialogX)：一款简单易用的对话框组件，相比原生对话框使用体验更佳，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有iOS、MIUI、Material You等主题扩展可选。
 - [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)：android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现
+
+## 算法
+
+- [hello-algo](https://github.com/krahets/hello-algo)：《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码
+- [漫画算法](https://github.com/bjweimengshu)：图书《漫画算法》开源有全部代码
 
 ## Android 优秀个人技术博客
 
@@ -166,8 +171,4 @@
 - [Android轮子哥](https://www.jianshu.com/u/f7bb67d86765)
 - [Kongzue](https://github.com/kongzue)
 - [gyf-dev](https://github.com/gyf-dev)
-
-## 算法
-
-- [hello-algo](https://github.com/krahets/hello-algo)：《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码
 
