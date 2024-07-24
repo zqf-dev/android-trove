@@ -146,6 +146,7 @@
 - [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)：史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS
 - [DialogX](https://github.com/kongzue/DialogX)：一款简单易用的对话框组件，相比原生对话框使用体验更佳，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有iOS、MIUI、Material You等主题扩展可选。
 - [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)：android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现
+- [AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)：Android马甲包生成垃圾代码插件
 
 ## 算法
 
