@@ -66,6 +66,7 @@
 - [Android 数据库系列一：ORM框架的引入与数据库表的设计思考](https://juejin.cn/post/7330021813823733775)
 - [Android 数据库系列二：全文检索踩坑记录与相关思考](https://juejin.cn/post/7330764235594694696)
 - [Android 数据库系列三：复杂项目SQL治理与数据库的优化总结](https://juejin.cn/post/7338306790173704192?searchId=20240712110657FF0B16F17FD0FD2538D7)
+- [FileOperator](https://github.com/javakam/FileOperator)：涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
 
 ## 权限
 
